@@ -1,1 +1,23 @@
+{"name":"Gridcoin",
+"tokenSymbol":"GRC",
+"DaoOS":"Snapshot",
+"address":"",
+"description":"Developed during the second altcoin explosion as the first PoW bootstrapped coin to transition to PoS (2013) and the first entirely science-based blockchain and Open Economic Network, Gridcoin is an open-source multi-incentive permissionless blockchain that mints and distributes cryptocurrency to various contribution-based and point-accruing systems. It currently distributes currency according to the relative processing power a network participant directs toward data-driven analysis and scientific discovery across BOINC and Folding@Home.",
+"whitePaperLink":"https://gridcoin.us/assets/docs/whitepaper.pdf",
+"gallery":[{}],
+"deleted":false,
+"primaryColor":"#8110e5",
+"twitterHandle":"GridcoinNetwork",
+"coingeckoId":"gridcoin-research",
+"snapshotId":"",
+"logo":"https://i.imgur.com/WHSXO9D.png",
+"telegramLink":"",
+"discordLink":"",
+"website":"https://gridcoin.us/",
+"tokenDescription":"",
+"tokenTradeLink":"",
+"tags":["Ecosystems", "Focused Research", "Decentralized funding", "Blockchain protocols", "Science DeFi", "Decentralized computing"]
+  
+}
+
 
